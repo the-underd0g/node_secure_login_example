@@ -10,7 +10,7 @@
 .idea/**/dictionaries
 .idea/**/shelf
 .idea
-.idea/
+
 # Generated files
 .idea/**/contentModel.xml
 
@@ -161,13 +161,7 @@ typings/
 .dynamodb/
 
 .DS_Store
-.babelrc
 .idea/misc.xml
 .idea/modules.xml
 .idea/nodeSecure.iml
-index.js
-package-lock.json
-package.json
-public/
-src/
 .idea/vcs.xml
